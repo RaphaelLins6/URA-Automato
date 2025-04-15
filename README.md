@@ -40,11 +40,11 @@ Este projeto consiste em uma **Unidade de Resposta Audível (URA)** bancária si
 ```
 2. 💻 Acesse a pasta do projeto:
 ```bash
-    cd NomeDoRepositorio
+    cd URA-Automato
 ```
 3. 📦 Instale as dependências:
 ```bash
-  pip install playsound gtts
+  pip install -r requirements.txt
 ```
 4. ▶️ Execute o script:
 ```bash
