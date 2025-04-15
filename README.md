@@ -35,9 +35,9 @@ Este projeto consiste em uma **Unidade de Resposta Audível (URA)** bancária si
 ## 🚀 Como Utilizar o Repositório
 
 1. 📥 Clone o repositório:
-    ```bash
+```bash
     https://github.com/RaphaelLins6/URA-Automato
-    ```
+```
 2. 💻 Acesse a pasta do projeto:
 ```bash
     cd NomeDoRepositorio
